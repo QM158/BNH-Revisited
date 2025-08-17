@@ -1,0 +1,14 @@
+.custom-hr {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.bg-light-subtle {
+  background-color: #eaf4fc;
+}
+#resultText {
+  background-color: darkgray;
+  padding: 20px;
+  border: 1px solid black;
+}
+
